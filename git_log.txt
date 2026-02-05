@@ -1,0 +1,65 @@
+commit 02b61ff8a1adc2c74ba4c0c5741c4dbb4a2bb43e
+Merge: 3d384b2 ab3296d
+Author: wpicfish <rdiep137@gmail.com>
+Date:   Thu Feb 5 12:53:30 2026 -0800
+
+    fixed conflict for index.html
+
+commit ab3296d84c8a74602c2df2eb4b60956e29789bef
+Author: wpicfish <rdiep137@gmail.com>
+Date:   Thu Feb 5 12:52:17 2026 -0800
+
+    updated index.html
+
+commit 3d384b2c75978853ba12a48a5410233f590f9067
+Author: wpicfish <rdiep137@gmail.com>
+Date:   Thu Feb 5 12:51:38 2026 -0800
+
+    updated index.html
+
+commit a255aa433b551f62776cad9f58a4ca25c5dd8734
+Merge: a7b0c0e bfab400
+Author: wpicfish <rdiep137@gmail.com>
+Date:   Thu Feb 5 12:48:35 2026 -0800
+
+    Merge branch 'main' of https://github.com/wpicfish/CS3338-second-project
+
+commit a7b0c0eafbc94297052f385dd1e3aa2deaddd2f8
+Author: wpicfish <rdiep137@gmail.com>
+Date:   Thu Feb 5 12:47:13 2026 -0800
+
+    added README
+
+commit c4ac4bfff861983cff3db377b3692ca24802efdd
+Merge: 5566e80 ac54b89
+Author: wpicfish <rdiep137@gmail.com>
+Date:   Thu Feb 5 12:46:10 2026 -0800
+
+    WIP on info-fill: 5566e80 index.html update
+
+commit ac54b89e3cff4f60b59662b98093d13ac52c64b2
+Author: wpicfish <rdiep137@gmail.com>
+Date:   Thu Feb 5 12:46:10 2026 -0800
+
+    index on info-fill: 5566e80 index.html update
+
+commit bfab4004fec0e60def21f097f9c0df8b11f8d852
+Merge: 1d2bfc0 5566e80
+Author: wpicfish <rdiep137@gmail.com>
+Date:   Thu Feb 5 12:45:00 2026 -0800
+
+    Merge pull request #1 from wpicfish/info-fill
+    
+    index.html update
+
+commit 5566e8054964eb32c98bfb069a8bc37703e22a63
+Author: wpicfish <rdiep137@gmail.com>
+Date:   Thu Feb 5 12:33:38 2026 -0800
+
+    index.html update
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
